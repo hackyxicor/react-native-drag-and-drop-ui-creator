@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffdf45d8d2eea96699c454871fee88f0",
+    "revision": "e3a50fb448b36eb088e33510adbd35d2",
     "url": "/react-native-drag-and-drop-ui-creator/index.html"
   },
   {
-    "revision": "31fe712a5c9c209fcd0c",
+    "revision": "4dfde5b85fca45a992c9",
     "url": "/react-native-drag-and-drop-ui-creator/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-native-drag-and-drop-ui-creator/static/js/2.7b256ad1.chunk.js"
   },
   {
-    "revision": "31fe712a5c9c209fcd0c",
-    "url": "/react-native-drag-and-drop-ui-creator/static/js/main.78f898ca.chunk.js"
+    "revision": "4dfde5b85fca45a992c9",
+    "url": "/react-native-drag-and-drop-ui-creator/static/js/main.bb865749.chunk.js"
   },
   {
     "revision": "f944d547a7472e3320a9",

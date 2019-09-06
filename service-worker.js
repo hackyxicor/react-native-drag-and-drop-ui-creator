@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-native-drag-and-drop-ui-creator/precache-manifest.ab81fafebd4723a295f668ae0b9d6b93.js"
+  "/react-native-drag-and-drop-ui-creator/precache-manifest.167e844aabc73934df72462a7b7ae7f9.js"
 );
 
 self.addEventListener('message', (event) => {
